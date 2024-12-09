@@ -13,7 +13,7 @@ header {
     text-align: center;
 }
 
-section {
+div {
     margin: 20px auto; /* Espaçamento externo */
     padding: 20px; /* Espaçamento interno */
     border: 1px solid #ddd; /* Borda leve */
@@ -51,7 +51,7 @@ p {
 }
 
 
-div.footer {
+section.footer {
     background-color:rgb(93, 233, 252) ;
     text-align: center;
     padding: 10px 0;
